@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.yellow-block {
+  background-color: yellow;
+  height: 100vh;
+  position: relative;
+}
+
+.bootstrap-modal-container {
+  position: absolute;
+  top:10;
+}
